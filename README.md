@@ -2,21 +2,21 @@
 Datachat is an interactive web application designed to simplify data preprocessing, exploration, and analysis by combining powerful data profiling and chatbot-driven insights. It helps users understand their datasets quickly and generate meaningful visual reports without deep coding knowledge.
 
 <h1>Features</h1>
-Data Upload: Upload CSV files easily to start exploring your data.
+Data Upload: Upload CSV files easily to start exploring your data.<br>
 Automated Data Profiling: Generate detailed data reports using Pandas Profiling.
 Interactive Chatbot: Ask questions about your data and get insightful responses powered by AI.
 Image Data Analysis: Supports computer vision-based analysis of images.
 User-Friendly Interface: Built with Streamlit for easy, no-code interaction.
 Multi-modal Data Handling: Works with tabular and image data seamlessly.
 
-#Tech Stack
+<h1>Tech Stack</h1>
 Backend & Frontend: Streamlit
 Data Profiling: Pandas Profiling
 AI Chatbot: Gemini API integration
 Data Handling: Pandas, NumPy
 Image Analysis: Computer Vision techniques integrated with AI
 
-#Usage
+<h1>Usage</h1>
 Upload your dataset in CSV format.
 
 View the detailed profiling report generated automatically.

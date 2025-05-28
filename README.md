@@ -1,7 +1,7 @@
-#Datachat
+<h1>DataChat</h1>
 Datachat is an interactive web application designed to simplify data preprocessing, exploration, and analysis by combining powerful data profiling and chatbot-driven insights. It helps users understand their datasets quickly and generate meaningful visual reports without deep coding knowledge.
 
-#Features
+<h1>Features</h1>
 Data Upload: Upload CSV files easily to start exploring your data.
 Automated Data Profiling: Generate detailed data reports using Pandas Profiling.
 Interactive Chatbot: Ask questions about your data and get insightful responses powered by AI.
